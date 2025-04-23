@@ -1,13 +1,13 @@
 {
     "id": "BFB5C9A4",
-    "path": "~/DH_Workshops/IIS-DAR/index.Rmd",
+    "path": "~/DH_Workshops/iis-workshops/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
     "hash": "2942792837",
     "contents": "",
     "dirty": false,
     "created": 1745399560024.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
