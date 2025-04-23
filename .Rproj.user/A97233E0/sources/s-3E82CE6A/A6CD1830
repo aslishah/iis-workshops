@@ -1,6 +1,6 @@
 {
     "id": "A6CD1830",
-    "path": "~/DH_Workshops/IIS-DAR/README.md",
+    "path": "~/DH_Workshops/iis-workshops/README.md",
     "project_path": "README.md",
     "type": "markdown",
     "hash": "0",
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9,0",
+        "cursorPosition": "14,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1745399554,
+    "lastKnownWriteTime": 1745400773,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1745399554,
+    "last_content_update": 1745400773692,
     "read_only": false,
     "read_only_alternatives": []
 }
